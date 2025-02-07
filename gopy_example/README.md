@@ -7,5 +7,5 @@ Before everything install:
 Then
 
 1. write .go and .mod file
-2. gopy build -output=./output_dir package_name
-3. import from python as from output_dir import package_name
+2. `gopy build -output=./output_dir package_name`
+3. import from python as `from output_dir import package_name`
